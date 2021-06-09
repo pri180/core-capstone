@@ -1,6 +1,6 @@
 # Capstone Project
 
-The Capstone Project is the largest undertaking you'll experience in the Ada classroom. Not only is it a month long, but you will be your own product owner. It will be up to you to decide (with input from instructors, mentors, and TAs) what gets built when (and how).
+The Capstone Project is the largest undertaking you'll experience in the Ada classroom. Not only is it a month long, but you will be your own product owner. It will be up to you to decide (with input from instructors, mentors, and TAs) what gets built when (and how). Your capstone should be something you will be proud to show off and something you will get to learn a lot from! 
 
 ## Learning Goals
 
@@ -13,17 +13,16 @@ In the capstone project we will...
 
 ## Important Dates
 
-- July 2nd - Submit 1-3 Capstone Concepts
-  - [Due: Capstone Concepts (at least 1)](../concept/capstone-concept.checkpoint.md)
+- July 2nd - Submit 1-3 [Capstone Concepts](../concept/capstone-concept.checkpoint.md)
 - July 14th
   - Instructors will provide feedback on capstone conecpts via Learn or in a 1:1 meeting
 - By July 22nd
-  - Schedule a meeting with your 1:1 instructor by this date. 
-  - Submit your [capstone project proposal](../proposal/capstone-project-proposal.md) 24 hours in advance of your schedled 1:1 meeting.
+  - Schedule a meeting with your 1:1 instructor by this date. We strongly encourage you to schedule the meeting during the week of July 12th.
+  - Submit your [capstone project proposal](../proposal/capstone-project-proposal.md) 24 hours in advance of your scheduled 1:1 meeting.
 - By July 26th
-  - We strongly encourgage you to complete at least one tutorial by the start of capstones work time.
+  - We strongly encourage you to complete at least one tutorial by the start of capstones work time.
 - July 26th - Capstones Begin
-  - You can continue your tutorial at the beginning of Week 1.
+  - You can continue your tutorial at the beginning of Week 1, if needed.
 - August 17th at 11:59am PST - Code Freeze
 - August 18th at 5pm PST - Presentation link due [here](https://docs.google.com/spreadsheets/d/1ZluozTih8Jr-AxZdytRfyDV46o9DsLnz6mVCB5CT61c/edit?usp=sharing)
 - August 19th & 20th - Capstone Presentations! Schedule to come.
@@ -56,16 +55,17 @@ Other information we've compiled:
 
 ## Capstone Requirements
 
-The requirements for capstone are intentionally the most open-ended and vague you have received for a project. First and foremost, this project is for you! If there is one goal to hold onto throughout the process of capstone, it is: **Your capstone should be something you will be proud to show off and something you will get to learn a lot from**. (Maybe that's two goals, but still short enough to remember, yeah?)
+The requirements for capstone are intentionally open-ended and vague. First and foremost, this project is for you! For the sake of formalizing the ambiguity, and allowing yourself to feel successful and on track, here is a short list of requirements.
 
-For the sake of formalizing the ambiguity, so that you can know that your capstone is on track to "meet the requirements", here is a short list of requirements:
-
-- Student maintains communication with staff throughout capstone
-- There is a code base for all relevant parts of the project on GitHub that the assigned PM (instructor) has access to
-- The project represents learning new technology in some way
-- Student presents their Capstone project to an audience
-- If relevant, the project is deployed on the internet
-  - A couple examples of projects where this isn't relevant are mobile app projects that don't have a backend and hardware projects. There are of course many other examples. If you're uncertain whether deployment is a relevant requirement for your project, we welcome you to check-in with an instructor!
+- Students should create a project proposal that includes:
+  - At least one input (i.e. specific user interactions, data)
+  - Identifying an ideal user
+  - At least one, ideally two, outputs (i.e. report, recommendation)
+- Students demonstrate learning a new technology
+- There is a code base for all relevant parts of the project on GitHub that the assigned PM has access to
+- Weekly 1:1 with PM to ensure consistent communication
+- If relevant, deployment is encouraged. This will be decided between you and your 1:1 instructor during the project proposal process.
+- Student presents their capstone project to C15 and Ada community
 
 ## Things You Need to Do
 
