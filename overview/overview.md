@@ -4,8 +4,6 @@ The Capstone Project is the largest undertaking you'll experience in the Ada cla
 
 ## Learning Goals
 
-In the capstone project we will...
-
 - Demonstrate self-direction, time management, and independent learning
 - Learn and implement new technologies
 - Complete a product lifecycle from conception to delivery
