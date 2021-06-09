@@ -15,15 +15,18 @@ In the capstone project we will...
 
 - July 2nd - Submit 1-3 Capstone Concepts
   - [Due: Capstone Concepts (at least 1)](../concept/capstone-concept.checkpoint.md)
-- July 5th - 16th
-  - Instructors will provide feedback on capstone conecpts
-  - 1:1 Meetings will discuss the captone project
-- July 22nd - [Due: Capstone Project Proposal](../proposal/capstone-project-proposal.md)
+- July 14th
+  - Instructors will provide feedback on capstone conecpts via Learn or in a 1:1 meeting
+- By July 22nd
+  - Schedule a meeting with your 1:1 instructor by this date. 
+  - Submit your [capstone project proposal](../proposal/capstone-project-proposal.md) 24 hours in advance of your schedled 1:1 meeting.
+- By July 26th
+  - We strongly encourgage you to complete at least one tutorial by the start of capstones work time.
 - July 26th - Capstones Begin
-  - Week 1 begins with technology research and tutorial practice
-- August 17th 12pm - Code Freeze
-- August 19th - Presentation Submission Due
-- August 19th & 20th - [Capstone Presentations](../project/presentation-submission.checkpoint.md)
+  - You can continue your tutorial at the beginning of Week 1.
+- August 17th at 11:59am PST - Code Freeze
+- August 18th at 5pm PST - Presentation link due [here](https://docs.google.com/spreadsheets/d/1ZluozTih8Jr-AxZdytRfyDV46o9DsLnz6mVCB5CT61c/edit?usp=sharing)
+- August 19th & 20th - Capstone Presentations! Schedule to come.
 
 ## What's in This Section
 
