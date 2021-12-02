@@ -25,19 +25,18 @@ The requirements for capstone are intentionally open-ended and vague. First and 
 
 ## Important Dates
 
-- July 2nd - Submit 1-3 [Capstone Concepts](../concept/capstone-concept.checkpoint.md)
-- July 14th
-  - Instructors will provide feedback on capstone conecpts via Learn or in a 1:1 meeting
-- By July 22nd
-  - Schedule a meeting with your 1:1 instructor by this date. We strongly encourage you to schedule the meeting during the week of July 12th.
-  - Submit your [capstone project proposal](../proposal/capstone-project-proposal.md) 24 hours in advance of your scheduled 1:1 meeting.
-- By July 26th
-  - We strongly encourage you to complete at least one tutorial by the start of capstones work time.
-- July 26th - Capstones Begin
-  - You can continue your tutorial at the beginning of Week 1, if needed.
-- August 17th at 11:59am PST - Code Freeze
-- August 18th at 5pm PST - Presentation link due [here](https://docs.google.com/spreadsheets/d/1ZluozTih8Jr-AxZdytRfyDV46o9DsLnz6mVCB5CT61c/edit?usp=sharing)
-- August 19th & 20th - Capstone Presentations! Schedule to come.
+- Wednesday, December 8th, from 5 to 6 pm PST: Capstone Examples with alums
+- Monday, December 13th, from 10 to 10:45am PST: Capstone Find-A-Partner
+- By Friday, Dec 17 at 9:00am PST: Submit 1-3 capstone concepts using this form
+- By Friday, Dec 23rd at 5pm PST: Submit final project proposal using this form, and book meeting with 1:1 instructor for the first week in January
+- By Monday, January 24th: Complete at least one tutorial
+- Monday, January 24th to Tuesday, February 15th: Capstone work time
+- Monday, January 24th: You will receive your tech stack and PM group assignment
+- Tuesday, January 25th: First standup with tech stack group
+- TBD: Optional capstion presentation Q+A
+- Tuesday, February 15th, at 5pm PST: Code Freeze
+- Wednesday, February 16th, at 5pm PST: Submit your project presentation link here. If you are doing a live demo, please indicate that in the spreadsheet.
+- Thursday, February 17th, and Friday, February 18th: Capstone presentations! Final schedule to come.
 
 ## 7 Steps to Capstones
 
